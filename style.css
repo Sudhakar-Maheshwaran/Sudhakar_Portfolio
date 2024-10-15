@@ -1,0 +1,10 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.banner{
+    background-image: url('/project/portfolio/img/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
